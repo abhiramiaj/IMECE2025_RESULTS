@@ -1,2 +1,3 @@
-# IMECE2025_RESULTS
-Matlab codes to reproduce the results in the paper "A Case Study on Effect of Failure Modes on the Mechanical Properties of Bio-inspired Staggered Composites"
+# Studies-on-Effect-of-Failure-Modes-on-Mechanical-Properties-of-Staggered-Composites
+Matlab codes to reproduce the Figures.
+Download all files before running the main codes for Figures to ensure that the necessary function files are available.
